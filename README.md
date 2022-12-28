@@ -6,7 +6,7 @@
 
 Projeto construido por mim
 
-[Clique aqui para acessar](https://kauaevangelista.github.io/Projeto-Spacex/)
+[Clique aqui para acessar](https://kauaevangelista.github.io/Projeto-SpaceX/)
 
 ## 🛠️Tecnologias
 
